@@ -1,2 +1,2 @@
 Machine Learning 
-my first steps in data scince and machine learning 
+# my first steps in data scince and machine learning 
