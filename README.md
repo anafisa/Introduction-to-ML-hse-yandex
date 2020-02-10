@@ -8,4 +8,4 @@
 5. Week5: [GradientBoostingClassifier, RandomForest](https://github.com/anafisa/Introduction-to-ML-hse-yandex/tree/master/Week5)
 6. Week6: [K-Means clustering](https://github.com/anafisa/Introduction-to-ML-hse-yandex/tree/master/Week6)
 7. Week7: [My final project](https://github.com/anafisa/Introduction-to-ML-hse-yandex/tree/master/FinalProject)
-!(https://www.ie.edu/exponential-learning/blog/wp-content/uploads/2018/01/MachineLearninginMarketing-1621x1000.jpg)
+* ![image.png](https://www.ie.edu/exponential-learning/blog/wp-content/uploads/2018/01/MachineLearninginMarketing-1621x1000.jpg)
