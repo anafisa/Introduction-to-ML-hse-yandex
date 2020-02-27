@@ -8,4 +8,8 @@
 5. Week5: [GradientBoostingClassifier, RandomForest](https://github.com/anafisa/Introduction-to-ML-hse-yandex/tree/master/Week5)
 6. Week6: [K-Means clustering](https://github.com/anafisa/Introduction-to-ML-hse-yandex/tree/master/Week6)
 7. Week7: [My final project](https://github.com/anafisa/Introduction-to-ML-hse-yandex/tree/master/FinalProject)
+### General information:
+* [Basic work stages](https://github.com/anafisa/Introduction-to-ML-hse-yandex/blob/master/Notes_stages.ipynb)
+* [Basic data pre processing ways](https://github.com/anafisa/Introduction-to-ML-hse-yandex/blob/master/Notes_processing.ipynb)
+
 ![image.png](https://sun9-67.userapi.com/c857324/v857324993/d80df/00xutR0IShA.jpg)
