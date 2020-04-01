@@ -1,6 +1,6 @@
 # Introduction to Machine Learning 
 > This repository contains some programming assignments and projects I've done during the Introduction to Machine Learning course.
-### Course stracture:
+### Course structure:
 1. Week1: [Pandas review, DecisionTreeClassifier](https://github.com/anafisa/Introduction-to-ML-hse-yandex/tree/master/Week1)
 2. Week2: [Metrics review, KNeighbors, Perceptron model](https://github.com/anafisa/Introduction-to-ML-hse-yandex/tree/master/Week2)
 3. Week3: [LogisticRegression, SVM, Quality Metrics](https://github.com/anafisa/Introduction-to-ML-hse-yandex/tree/master/Week3/Quality%20Metrics)
